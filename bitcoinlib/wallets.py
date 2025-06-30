@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 # -*- coding: utf-8 -*-
 #    BitcoinLib - Python Cryptocurrency Library
 #    WALLETS - HD wallet Class for Key and Transaction management
